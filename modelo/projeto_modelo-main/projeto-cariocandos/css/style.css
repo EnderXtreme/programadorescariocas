@@ -1,0 +1,69 @@
+body{
+   
+    text-align: center;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: white  url(../img/rio.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.container{
+    width: 80%;
+    margin-left:10% ;
+    background-color: white;
+}
+
+
+
+.mainav{
+    background-color: olive;
+    color: blue;
+
+}
+
+.mainav li{
+    display:inline;
+    padding: 5%;
+}
+
+.mainav li a {
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    
+}
+
+.content{
+    width: 74%;
+    float: left;
+    padding-left: 3%;
+    border-left: 5%;
+
+}
+    
+.content p {
+    text-align: justify;
+     padding-left: 5%;
+    font-size: 90%;
+  
+}
+
+
+.mainleft{
+    float: right;
+    width: 20%;
+    background-color: aqua;
+}
+
+
+
+.rodape{
+    clear:both;
+    font-size:  14px;
+    color: white;
+
+    background-color: olive;
+    
+}

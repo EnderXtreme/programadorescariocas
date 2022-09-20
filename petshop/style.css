@@ -1,0 +1,59 @@
+
+
+body{
+    background-image:  url(../petshop/img/cavalo.jpg);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-size: 100%;
+}
+
+
+.conteiner{
+    width: 100%;
+    height: 100%;
+   /* background-image:  url(../petshop/img/cavalo.jpg);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+*/
+}
+
+
+
+
+.caixa1{
+    float: left;
+    background-color: rgb(106, 104, 91);
+    width: 60%;
+    height: 30%;
+    text-align: left;
+    color: rgb(235, 219, 71);
+    
+}
+
+.caixa2{
+    float: right;
+    background-color: rgb(235, 219, 71);
+    width: 40%;
+    height:30%;
+}
+
+
+.caixa2 li{
+    display: inline;
+    padding: 3%;
+}
+
+
+
+.menu{
+    background-color: aqua;
+    float: left;
+    width: 60%;
+    height: 60%;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+.menu h1{
+    text-align: center;
+}

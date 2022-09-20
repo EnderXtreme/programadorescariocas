@@ -1,0 +1,46 @@
+body{
+   
+    text-align: center;
+    color: rgb(77, 223, 37);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(46, 46, 46);
+
+}
+
+
+
+
+.container{
+    width: 80%;
+    margin-left:10% ;
+    background-color: dimgrey;
+}
+
+
+.header{
+
+
+   
+
+
+}
+
+.mainav{
+    background-color: aqua;
+    color: blue;
+
+}
+
+.mainav li{
+    display:inline;
+    padding: 5% 5%;
+}
+
+.mainav li a {
+    text-decoration: none;
+    font-size: 15px;
+    color: red;
+    
+}
+
+    
